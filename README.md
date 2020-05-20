@@ -1,3 +1,3 @@
 # Games
 Maze Game Project.  
-Contains one html file. Unzip to play. 
+Link where the game is. Open the zip file. Unzip and drag to web browser to play. 
